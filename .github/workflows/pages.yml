@@ -1,4 +1,3 @@
-# Deploys this folder to GitHub Pages (Settings → Pages → Source: GitHub Actions).
 name: pages
 on:
   push:
